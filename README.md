@@ -3,5 +3,6 @@ I'm passionate about ***Data*** & ***AI*** - basically anything to do with ***Ap
 
 Nothing gives me more joy than taking a seemingly "difficult" concept or problem and breaking it down to form a simple, elegant solution.
 
+<hr>
 <a href="https://www.linkedin.com/in/mdrakiburrahman/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdrakiburrahman" height="28" width="28" /></a>&nbsp;&nbsp;
 <a href="http://www.rakirahman.me/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gatsby.svg" alt="rakirahman" height="28" width="28" /></a>&nbsp;&nbsp;
