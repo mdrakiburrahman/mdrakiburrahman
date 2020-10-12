@@ -1,5 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm [Raki](https://rakirahman.me/)!
-I'm passionate about ***Data*** & ***AI*** - basically anything to do with ***Apache Spark*** and ***Distributed Processing Engines***.
+I'm passionate about ***Data*** & ***AI*** - basically anything to do with ***Apache Spark*** and ***Distributed Data Processing Engines***.
 
 Nothing gives me more joy than taking a seemingly "difficult" concept or problem and breaking it down to form a simple, elegant solution.
 
