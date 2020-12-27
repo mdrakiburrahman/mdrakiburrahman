@@ -7,7 +7,7 @@
 
 [![Linkedin: mdrakiburrahman](https://img.shields.io/badge/-mdrakiburrahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdrakiburrahman/)](https://www.linkedin.com/in/mdrakiburrahman/)
 [![GitHub mdrakiburrahman](https://img.shields.io/github/followers/mdrakiburrahman?label=follow&style=social)](https://github.com/mdrakiburrahman)
-[![website](https://img.shields.io/badge/Blog-rakirahman.me-1A202C?style=flat-square&logo=microsoft-edge)](https://rakirahman.me/)
+[![website](https://img.shields.io/badge/Blog-rakirahman.me-1A202C?style=flat-square&logo=microsoft-edge)](https://www.rakirahman.me/)
 
 **Languages and Tools:**  
 
