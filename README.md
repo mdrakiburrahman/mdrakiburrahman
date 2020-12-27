@@ -1,13 +1,13 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm [Raki](https://rakirahman.me/)!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrakiburrahman&label=Views&color=blue&style=plastic" alt="mdrakiburrahman" /> </p>
+
+![](https://komarev.com/ghpvc/?username=mdrakiburrahman&label=Views&color=blue&style=plastic&label=Views)
+[![Linkedin: mdrakiburrahman](https://img.shields.io/badge/-mdrakiburrahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdrakiburrahman/)](https://www.linkedin.com/in/mdrakiburrahman/)
+[![GitHub mdrakiburrahman](https://img.shields.io/github/followers/mdrakiburrahman?label=follow&style=social)](https://github.com/mdrakiburrahman)
+[![website](https://img.shields.io/badge/Blog-rakirahman.me-1A202C?style=flat-square&logo=microsoft-edge)](https://www.rakirahman.me/)
 
 - Cloud Solution Architect at <a href="https://https://www.microsoft.com/en-ca/"><img src="microsoft.png" width="15px"></a> ***Microsoft Canada***
 - I'm passionate about ***Data*** & ***AI*** - basically anything to do with ***Apache Spark*** and ***Distributed Data Processing Engines***
 - Nothing gives me more joy than taking a seemingly "difficult" concept or problem and breaking it down to form a simple, elegant solution
-
-[![Linkedin: mdrakiburrahman](https://img.shields.io/badge/-mdrakiburrahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdrakiburrahman/)](https://www.linkedin.com/in/mdrakiburrahman/)
-[![GitHub mdrakiburrahman](https://img.shields.io/github/followers/mdrakiburrahman?label=follow&style=social)](https://github.com/mdrakiburrahman)
-[![website](https://img.shields.io/badge/Blog-rakirahman.me-1A202C?style=flat-square&logo=microsoft-edge)](https://www.rakirahman.me/)
 
 **Languages and Tools:**  
 
