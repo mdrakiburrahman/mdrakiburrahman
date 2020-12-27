@@ -20,11 +20,11 @@
 <code><a href="https://graphql.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></a></code>    
 
 <a href="https://github.com/mdrakiburrahman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakiburrahman&theme=light&hide=html,jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakiburrahman&theme=dark&hide=html,jupyter%20notebook" />
 </a>
 
 <a href="https://github.com/mdrakiburrahman">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrakiburrahman&show_icons=true&theme=light&line_height=27" alt="Raki's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrakiburrahman&show_icons=true&theme=dark&line_height=27" alt="Raki's github stats"/>
 </a>
 
 <hr>
