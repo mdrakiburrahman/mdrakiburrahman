@@ -7,6 +7,7 @@
 
 - Cloud Solution Architect at <a href="https://https://www.microsoft.com/en-ca/"><img src="microsoft.svg" width="15px"></a> ***Microsoft Canada*** 🐱‍💻
 - I'm passionate about ***Data*** & ***AI*** - basically anything to do with ***Apache Spark*** and ***Distributed Data Processing Engines***
+- I'm currently learning ***Kubernetes*** too, check out some of our work on [Azure Arc Jumpstart](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_data/)
 - Nothing gives me more joy than taking a seemingly "difficult" concept or problem and breaking it down to form a simple, elegant solution
 
 **Languages and Tools:**  
