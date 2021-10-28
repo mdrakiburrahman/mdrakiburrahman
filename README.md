@@ -12,6 +12,7 @@
 
 **Languages and Tools:**  
 
+<code><a href="https://golang.org//"><img height="20" src="golang.png" alt="HTML5"></a></code>
 <code><a href="https://spark.apache.org/"><img height="20" src="apachespark.svg" alt="HTML5"></a></code>
 <code><a href="https://www.python.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><a href="https://www.scala-lang.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></a></code>
