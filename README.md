@@ -30,7 +30,7 @@
 </a>
 
 ---
-### My VS Code Coding Activity via [Wakatime](https://wakatime.com/)
+### VS Code Coding Activity via [Wakatime](https://wakatime.com/)
 <img src="https://github.com/mdrakiburrahman/mdrakiburrahman/blob/main/images/stat.svg" alt="Raki's WakaTime Activity"/>
 
 <hr>
