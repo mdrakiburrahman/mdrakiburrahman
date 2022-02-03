@@ -32,3 +32,6 @@
 <hr>
 <a href="https://www.linkedin.com/in/mdrakiburrahman/" target="_blank"><img align="center" src="linkedin.svg" alt="mdrakiburrahman" height="28" width="28" /></a>&nbsp;&nbsp;
 <a href="http://www.rakirahman.me/" target="_blank"><img align="center" src="gatsby.svg" alt="rakirahman" height="28" width="28"/></a>&nbsp;&nbsp;
+
+### My VS Code Coding Activity via Wakatime
+<img src="https://github.com/mdrakiburrahman/mdrakiburrahman/blob/main/images/stat.svg" alt="Raki's WakaTime Activity"/>
