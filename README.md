@@ -31,7 +31,7 @@
 
 ---
 ### VS Code Coding Activity via [Wakatime](https://wakatime.com/)
-<img src="https://github.com/mdrakiburrahman/mdrakiburrahman/blob/main/images/stat.svg" alt="Raki's WakaTime Activity"/>
+<img src="https://github.com/mdrakiburrahman/Profile-Readme-WakaTime/blob/master/images/stat.svg" alt="Raki's WakaTime Activity"/>
 
 <hr>
 <a href="https://www.linkedin.com/in/mdrakiburrahman/" target="_blank"><img align="center" src="linkedin.svg" alt="mdrakiburrahman" height="28" width="28" /></a>&nbsp;&nbsp;
