@@ -10,7 +10,7 @@
 - I'm currently learning ***Kubernetes*** too, check out some of our data work on [Azure Arc Jumpstart](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_data/)
 - Nothing gives me more joy than taking a seemingly "difficult" concept or problem and breaking it down to form a simple, elegant solution
 
-**Languages and Tools:**  
+### Languages and Tools
 
 <code><a href="https://golang.org//"><img height="20" src="golang.png" alt="HTML5"></a></code>
 <code><a href="https://spark.apache.org/"><img height="20" src="apachespark.svg" alt="HTML5"></a></code>
@@ -29,7 +29,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrakiburrahman&show_icons=true&theme=dark&line_height=27" alt="Raki's github stats"/>
 </a>
 
-** My VS Code Coding Activity via Wakatime **
+---
+### My VS Code Coding Activity via [Wakatime](https://wakatime.com/)
 <img src="https://github.com/mdrakiburrahman/mdrakiburrahman/blob/main/images/stat.svg" alt="Raki's WakaTime Activity"/>
 
 <hr>
