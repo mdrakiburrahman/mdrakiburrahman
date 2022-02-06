@@ -27,11 +27,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakiburrahman&hide=html,css,jupyter%20notebook&layout=compact&langs_count=10&theme=algolia" />
 </a>
 <a href="https://github.com/mdrakiburrahman">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrakiburrahman&show_icons=true&line_height=28.9&theme=algolia&hide_rank=true" alt="Raki's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrakiburrahman&show_icons=true&line_height=28.9&theme=algolia&hide_rank=true&include_all_commits=true&" alt="Raki's github stats"/>
 </a>
 
 ---
-### ⌚ Previous 7 days Coding Activity - tracked with [VS Code](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) & [Wakatime](https://wakatime.com/)
+### ⌚ Previous 7 days Coding Activity - tracked with [VS Code](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime&count_private=true) & [Wakatime](https://wakatime.com/)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mdrakiburrahman&theme=algolia&hide=markdown" alt="Raki's wakatime stats"/>
 
 <hr>
