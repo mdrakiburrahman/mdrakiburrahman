@@ -24,15 +24,15 @@
 <code><a href="https://graphql.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></a></code>    
 
 <a href="https://github.com/mdrakiburrahman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakiburrahman&hide=html,css,jupyter%20notebook&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakiburrahman&hide=html,css,jupyter%20notebook&layout=compact&langs_count=10&theme=algolia" />
 </a>
 <a href="https://github.com/mdrakiburrahman">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrakiburrahman&show_icons=true&line_height=28.9" alt="Raki's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrakiburrahman&show_icons=true&line_height=28.9&theme=algolia" alt="Raki's github stats"/>
 </a>
 
 ---
 ### ⌚ Previous 7 days Coding Activity - tracked with [VS Code](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) & [Wakatime](https://wakatime.com/)
-<img src="https://github.com/mdrakiburrahman/Profile-Readme-WakaTime/blob/master/images/stat.svg" alt="Raki's WakaTime Activity"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mdrakiburrahman&theme=algolia&hide=markdown" alt="Raki's wakatime stats"/>
 
 <hr>
 <a href="https://www.linkedin.com/in/mdrakiburrahman/" target="_blank"><img align="center" src="linkedin.svg" alt="mdrakiburrahman" height="28" width="28" /></a>&nbsp;&nbsp;
