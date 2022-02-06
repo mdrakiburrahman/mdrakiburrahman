@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakiburrahman&hide=html,css,jupyter%20notebook&layout=compact&langs_count=10&theme=algolia" />
 </a>
 <a href="https://github.com/mdrakiburrahman">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrakiburrahman&show_icons=true&line_height=28.9&theme=algolia" alt="Raki's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrakiburrahman&show_icons=true&line_height=28.9&theme=algolia&hide_rank=true" alt="Raki's github stats"/>
 </a>
 
 ---
