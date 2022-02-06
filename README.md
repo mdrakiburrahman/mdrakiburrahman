@@ -30,7 +30,7 @@
 </a>
 
 ---
-### 7 days VS Code Coding Activity via [Wakatime](https://wakatime.com/)
+### Previous 7 days VS Code Coding Activity via [Wakatime](https://wakatime.com/)
 <img src="https://github.com/mdrakiburrahman/Profile-Readme-WakaTime/blob/master/images/stat.svg" alt="Raki's WakaTime Activity"/>
 
 <hr>
