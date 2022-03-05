@@ -11,6 +11,7 @@
 - Nothing gives me more joy than taking a seemingly "difficult" concept or problem and breaking it down to form a simple, elegant solution
 
 ### 🔨 Languages and Tools
+> _🎓Currently learning [**Golang**](https://github.com/mdrakiburrahman/exercism_go) and [**.NET**](https://github.com/mdrakiburrahman/exercism_dotnet) with [**Exercism.io**](https://exercism.org/profiles/mdrakiburrahman)_
 
 <code><a href="https://golang.org//"><img height="20" src="golang.png" alt="HTML5"></a></code>
 <code><a href="https://kubernetes.io/"><img height="20" src="kubernetes.png" alt="HTML5"></a></code>
