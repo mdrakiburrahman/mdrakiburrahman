@@ -11,8 +11,6 @@
 - Nothing gives me more joy than taking a seemingly "difficult" concept or problem and breaking it down to form a simple, elegant solution
 
 ### 🔨 Languages and Tools
-> _🎓Currently learning [**Golang**](https://github.com/mdrakiburrahman/exercism_go) and [**.NET**](https://github.com/mdrakiburrahman/exercism_dotnet) with [**Exercism.io**](https://exercism.org/profiles/mdrakiburrahman)_
-
 <code><a href="https://golang.org//"><img height="20" src="golang.png" alt="HTML5"></a></code>
 <code><a href="https://kubernetes.io/"><img height="20" src="kubernetes.png" alt="HTML5"></a></code>
 <code><a href="https://spark.apache.org/"><img height="20" src="apachespark.svg" alt="HTML5"></a></code>
@@ -33,9 +31,5 @@
 </a>
 
 ---
-### ⌚ Previous 7 days Coding Activity - tracked with [VS Code](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime&count_private=true) & [Wakatime](https://wakatime.com/)
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mdrakiburrahman&theme=algolia&hide=markdown" alt="Raki's wakatime stats"/>
-
-<hr>
 <a href="https://www.linkedin.com/in/mdrakiburrahman/" target="_blank"><img align="center" src="linkedin.svg" alt="mdrakiburrahman" height="28" width="28" /></a>&nbsp;&nbsp;
 <a href="http://www.rakirahman.me/" target="_blank"><img align="center" src="gatsby.svg" alt="rakirahman" height="28" width="28"/></a>&nbsp;&nbsp;
