@@ -6,8 +6,6 @@
 [![website](https://img.shields.io/badge/Blog-rakirahman.me-1A202C?style=flat-square&logo=microsoft-edge)](https://www.rakirahman.me/)
 
 - Software Engineer at <a href="https://azure.microsoft.com/en-us/services/azure-arc/hybrid-data-services/"><img src="microsoft.svg" width="15px"></a> ***Azure Arc-enabled Data Services*** 🐱‍💻
-- I'm passionate about ***Data*** & ***AI*** - basically anything to do with ***Apache Spark*** and ***Distributed Data Processing Engines***
-- I'm currently learning ***Kubernetes*** too, check out some of our data work on [Azure Arc Jumpstart](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_data/)
 - Nothing gives me more joy than taking a seemingly "difficult" concept or problem and breaking it down to form a simple, elegant solution
 
 ### 🔨 Languages & Tools
