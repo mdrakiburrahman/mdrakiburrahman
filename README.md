@@ -1,4 +1,4 @@
-### 🙋‍♂️ Hi, I'm [Raki](https://www.rakirahman.me/)!
+### 👋 Hi, I'm [Raki](https://www.rakirahman.me/)!
 
 ![](https://komarev.com/ghpvc/?username=mdrakiburrahman&label=Views&color=blue&style=plastic&label=Views)
 [![GitHub mdrakiburrahman](https://img.shields.io/github/followers/mdrakiburrahman?label=follow&style=social)](https://github.com/mdrakiburrahman)
