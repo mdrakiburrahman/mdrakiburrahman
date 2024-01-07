@@ -5,7 +5,7 @@
 [![Linkedin: mdrakiburrahman](https://img.shields.io/badge/-mdrakiburrahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdrakiburrahman/)](https://www.linkedin.com/in/mdrakiburrahman/)
 [![website](https://img.shields.io/badge/Blog-rakirahman.me-1A202C?style=flat-square&logo=microsoft-edge)](https://www.rakirahman.me/)
 
-- Software Engineer at <a href="https://azure.microsoft.com/en-us/services/azure-arc/hybrid-data-services/"><img src="microsoft.svg" width="15px"></a> ***Azure Arc-enabled Data Services*** 🐱‍💻
+- Software Engineer at <a href="https://azure.microsoft.com/en-us/services/azure-arc/hybrid-data-services/"><img src="microsoft.svg" width="15px"></a> [***SQL Server enabled by Azure Arc***](https://learn.microsoft.com/en-us/sql/sql-server/azure-arc/overview?view=sql-server-ver16) 🐱‍💻
 - Nothing gives me more joy than taking a seemingly "difficult" concept or problem and breaking it down to form a simple, elegant solution
 
 ### 🔨 Languages & Tools
